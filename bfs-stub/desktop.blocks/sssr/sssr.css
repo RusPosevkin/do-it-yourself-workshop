@@ -1,0 +1,8 @@
+.sssr .spin {
+	margin-left: 1em;
+	vertical-align: middle;
+}
+
+.sssr .spin_loading .content {
+	opacity: 0.5;
+}
